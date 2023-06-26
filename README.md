@@ -1,6 +1,6 @@
 # # Java Feed Reader with Spark
 
-This is a console-based feed reader application implemented in Java, which allows users to automatically retrieve and display feeds from various websites. The application follows the object-oriented programming paradigm and utilizes a JSON file to specify the different sites and their corresponding topics from which to obtain the feeds.
+This is a console-based feed reader application implemented in Java, which allows users to automatically retrieve and display feeds from various websites. The application follows the object-oriented programming paradigm and utilizes a JSON file to specify the different sites and their corresponding topics from which to obtain the feeds. Additionally, the application integrates with the Spark framework for enhanced performance and scalability.
 
 ## Features
 
